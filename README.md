@@ -243,4 +243,7 @@ Kubernetes provides additional features like:
 
 Feel free to explore these advanced features as your Kubernetes expertise grows.
 
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [kubeadm Setup Guide](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
+- [Calico Networking Guide](https://docs.projectcalico.org/getting-started/kubernetes/quickstart)
 
